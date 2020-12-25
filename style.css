@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-weight: bolder;
+}
+body{
+    background-color: lightseagreen;
+}
+hr{
+    border-top:  dashed green;
+    width: 350px;
+    margin-top:-10px;
+  }
+#as{
+    color: #800000;
+}
